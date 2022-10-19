@@ -1,0 +1,7 @@
+{
+  "ngram_range": [
+    1,
+    1
+  ],
+  "k_hyperparam": 5
+}
